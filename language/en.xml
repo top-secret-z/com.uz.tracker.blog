@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="en" languagename="English" countrycode="gb">
-	<category name="wcf.uztracker">
-		<item name="wcf.uztracker.config.wlbloBlog"><![CDATA[Blogs]]></item>
-		<item name="wcf.uztracker.config.wlbloEntry"><![CDATA[Blog articles]]></item>
-		<item name="wcf.uztracker.header.type.wlblo"><![CDATA[Blog]]></item>
-		<item name="wcf.uztracker.type.wlblo"><![CDATA[Blog]]></item>
-		
-		<item name="wcf.uztracker.description.blog.add"><![CDATA[Blog created]]></item>
-		<item name="wcf.uztracker.description.blog.delete"><![CDATA[Blog permanently deleted]]></item>
-		<item name="wcf.uztracker.description.blog.setAsFeatured"><![CDATA[Blog set featured]]></item>
-		<item name="wcf.uztracker.description.blog.unsetAsFeatured"><![CDATA[Blog unset featured]]></item>
-		<item name="wcf.uztracker.description.blog.update"><![CDATA[Blog edited]]></item>
-		
-		<item name="wcf.uztracker.description.blog.entry.add"><![CDATA[Article created]]></item>
-		<item name="wcf.uztracker.description.blog.entry.addDisabled"><![CDATA[Article created (disabled)]]></item>
-		<item name="wcf.uztracker.description.blog.entry.addDraft"><![CDATA[Article created (draft)]]></item>
-		<item name="wcf.uztracker.description.blog.entry.addLater"><![CDATA[Article created (in future)]]></item>
-		<item name="wcf.uztracker.description.blog.entry.delete"><![CDATA[Article permanently deleted]]></item>
-		<item name="wcf.uztracker.description.blog.entry.disable"><![CDATA[Article disabled]]></item>
-		<item name="wcf.uztracker.description.blog.entry.enable"><![CDATA[Article enabled]]></item>
-		<item name="wcf.uztracker.description.blog.entry.restore"><![CDATA[Article restored]]></item>
-		<item name="wcf.uztracker.description.blog.entry.setAsFeatured"><![CDATA[Article set featured]]></item>
-		<item name="wcf.uztracker.description.blog.entry.trash"><![CDATA[Article deleted (trash bin)]]></item>
-		<item name="wcf.uztracker.description.blog.entry.unsetAsFeatured"><![CDATA[Article unset featured]]></item>
-		<item name="wcf.uztracker.description.blog.entry.update"><![CDATA[Article updated]]></item>
-		
-		<item name="wcf.uztracker.page.blogFeed"><![CDATA[RSS Blog]]></item>
-		<item name="wcf.uztracker.page.blogCategoryEntryList"><![CDATA[Blog Category]]></item>
-		<item name="wcf.uztracker.page.blogEntry"><![CDATA[Blog Article]]></item>
-		<item name="wcf.uztracker.page.blogEntryList"><![CDATA[Blog Article List]]></item>
-	</category>
+    <category name="wcf.uztracker">
+        <item name="wcf.uztracker.config.wlbloBlog"><![CDATA[Blogs]]></item>
+        <item name="wcf.uztracker.config.wlbloEntry"><![CDATA[Blog articles]]></item>
+        <item name="wcf.uztracker.header.type.wlblo"><![CDATA[Blog]]></item>
+        <item name="wcf.uztracker.type.wlblo"><![CDATA[Blog]]></item>
+
+        <item name="wcf.uztracker.description.blog.add"><![CDATA[Blog created]]></item>
+        <item name="wcf.uztracker.description.blog.delete"><![CDATA[Blog permanently deleted]]></item>
+        <item name="wcf.uztracker.description.blog.setAsFeatured"><![CDATA[Blog set featured]]></item>
+        <item name="wcf.uztracker.description.blog.unsetAsFeatured"><![CDATA[Blog unset featured]]></item>
+        <item name="wcf.uztracker.description.blog.update"><![CDATA[Blog edited]]></item>
+
+        <item name="wcf.uztracker.description.blog.entry.add"><![CDATA[Article created]]></item>
+        <item name="wcf.uztracker.description.blog.entry.addDisabled"><![CDATA[Article created (disabled)]]></item>
+        <item name="wcf.uztracker.description.blog.entry.addDraft"><![CDATA[Article created (draft)]]></item>
+        <item name="wcf.uztracker.description.blog.entry.addLater"><![CDATA[Article created (in future)]]></item>
+        <item name="wcf.uztracker.description.blog.entry.delete"><![CDATA[Article permanently deleted]]></item>
+        <item name="wcf.uztracker.description.blog.entry.disable"><![CDATA[Article disabled]]></item>
+        <item name="wcf.uztracker.description.blog.entry.enable"><![CDATA[Article enabled]]></item>
+        <item name="wcf.uztracker.description.blog.entry.restore"><![CDATA[Article restored]]></item>
+        <item name="wcf.uztracker.description.blog.entry.setAsFeatured"><![CDATA[Article set featured]]></item>
+        <item name="wcf.uztracker.description.blog.entry.trash"><![CDATA[Article deleted (trash bin)]]></item>
+        <item name="wcf.uztracker.description.blog.entry.unsetAsFeatured"><![CDATA[Article unset featured]]></item>
+        <item name="wcf.uztracker.description.blog.entry.update"><![CDATA[Article updated]]></item>
+
+        <item name="wcf.uztracker.page.blogFeed"><![CDATA[RSS Blog]]></item>
+        <item name="wcf.uztracker.page.blogCategoryEntryList"><![CDATA[Blog Category]]></item>
+        <item name="wcf.uztracker.page.blogEntry"><![CDATA[Blog Article]]></item>
+        <item name="wcf.uztracker.page.blogEntryList"><![CDATA[Blog Article List]]></item>
+    </category>
 </language>
