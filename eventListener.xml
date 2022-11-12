@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/eventListener.xsd">
-	<import>
-		<eventlistener name="trackerBlog">
-			<eventclassname>blog\data\blog\BlogAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>blog\system\event\listener\TrackerBlogListener</listenerclassname>
-		</eventlistener>
-		<eventlistener name="trackerBlogEntry">
-			<eventclassname>blog\data\entry\EntryAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>blog\system\event\listener\TrackerBlogEntryListener</listenerclassname>
-		</eventlistener>
-	</import>
+    <import>
+        <eventlistener name="trackerBlog">
+            <eventclassname>blog\data\blog\BlogAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>blog\system\event\listener\TrackerBlogListener</listenerclassname>
+        </eventlistener>
+        <eventlistener name="trackerBlogEntry">
+            <eventclassname>blog\data\entry\EntryAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>blog\system\event\listener\TrackerBlogEntryListener</listenerclassname>
+        </eventlistener>
+    </import>
 </data>
